@@ -322,6 +322,11 @@ main #roadmap h1.title {
     line-height: 140%;
   }
 }
+@media (min-width: 700px) {
+  .moon {
+    max-width: 20rem;
+  }
+}
 main #roadmap .row div.cd {
   background: #161616;
   border-radius: 20px;
