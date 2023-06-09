@@ -33,9 +33,6 @@ ScrollReveal({
 
 window.addEventListener("load", () => {
   loader.style.display = "none";
-});
-
-document.addEventListener("DOMContentLoaded", function () {
   const scroll = new LocomotiveScroll({
     el: document.querySelector(".scroll-container"),
     smooth: true,
