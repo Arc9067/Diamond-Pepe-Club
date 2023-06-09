@@ -178,7 +178,6 @@ a.button {
   padding-block: 50px;
 }
 
-
 header {
   padding-block: 20px;
   width: 100%;
@@ -201,7 +200,7 @@ header {
   // background: url(../img/hero-bg.png) center center no-repeat;
   background-size: cover;
   background-color: var(--body-bg);
-  padding-block: 100px;
+  padding-block: 150px;
   position: relative;
 
   h1.title {
@@ -359,9 +358,6 @@ main {
         padding: 20px 10px;
       }
     }
-  }
-  #swap {
-    width: 100%;
   }
 }
 
